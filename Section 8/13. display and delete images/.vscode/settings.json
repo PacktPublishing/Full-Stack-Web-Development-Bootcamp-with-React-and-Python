@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "eslint.validate": [
+        "html",
+        "javascript",
+        "javascriptreact"       
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
