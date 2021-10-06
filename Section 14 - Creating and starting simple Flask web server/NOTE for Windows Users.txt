@@ -1,0 +1,10 @@
+NOTE for Windows Users
+For Windows users only:
+
+In the next lecture instead of
+
+env FLASK_AP=main.py flask run
+
+enter command
+
+set FLASK_AP=main.py flask run
